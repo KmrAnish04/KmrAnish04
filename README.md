@@ -14,3 +14,7 @@ Techie girls attracts me most 👩 :)</p>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **I love infinite loops**
 -
+
+
+
+<img scr ="https://github-readme-stats.vercel.app/api?username=KmrAnish04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
