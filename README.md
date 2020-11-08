@@ -16,7 +16,7 @@ Techie girls attracts me most 👩 :)</p>
 
 
 <a href="https://github.com/KmrAnish04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=light&hide_langs_below=2" />
 </a>
 <a href="https://github.com/KmrAnish04">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KmrAnish04&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
