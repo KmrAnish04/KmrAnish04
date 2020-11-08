@@ -13,8 +13,12 @@ Techie girls attracts me most 👩 :)</p>
 - 📫 How to reach me: **anish.1903.kmr@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **I love infinite loops**
--
 
 
 
-<img scr ="https://github-readme-stats.vercel.app/api?username=KmrAnish04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/KmrAnish04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/KmrAnish04">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KmrAnish04&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
