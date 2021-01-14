@@ -11,7 +11,7 @@ Techie girls attracts me most 👩 :)</p>
 - 🤔 I’m looking for help with **Application and web development**
 - 💬 Ask me about **Embedded Systems**
 - 📫 How to reach me: **anish.1903.kmr@gmail.com**
-- 😄 Pronouns: ...
+- 😄 Pronouns: ....
 - ⚡ Fun fact: **I love infinite loops**
 
 
