@@ -5,13 +5,13 @@ Techie girls attracts me most 👩 :)</p>
 
 
 
-- 🔭 I’m currently learning **Mobile App Development**
+- 🔭 I’m currently learning **App and Web Development**
 - 🌱 I’m currently working on ...
-- 👯 I’m looking to collaborate on **innovative and cool projects**
+- 👯 I’m looking to collaborate on **Innovative and cool projects**
 - 🤔 I’m looking for help with **Application and web development**
-- 💬 Ask me about **Embedded Systems**
+- 💬 Ask me about **Android and Web Development **
 - 📫 How to reach me: **anish.1903.kmr@gmail.com**
-- 😄 Pronouns: ....
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: **I love infinite loops**
 
 
