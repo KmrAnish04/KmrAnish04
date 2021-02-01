@@ -15,6 +15,9 @@ Techie girls attracts me most 👩 :)</p>
 - ⚡ Fun fact: **I love infinite loops**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=onedark)](https://github.com/KmrAnish04/github-readme-stats)
-
-[![Status](https://github-readme-stats.vercel.app/api?username=KmrAnish04&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)](https://github.com/KmrAnish04?tab=repositories)
+<a href="https://github.com/KmrAnish04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=onedark&hide_langs_below=0" />
+</a>
+<a href="https://github.com/KmrAnish04">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KmrAnish04&theme=onedark"/>
+</a>
