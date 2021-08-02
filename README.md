@@ -21,6 +21,7 @@ Techie girls attracts me most 👩 :)</p>
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: **I love infinite loops**
 
+<hr/>
 
 <a href="https://github.com/KmrAnish04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&theme=onedark&hide_langs_below=5" />
