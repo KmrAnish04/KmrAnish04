@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 <header>
-  <img src="https://pbs.twimg.com/profile_banners/1249576385061871618/1627927478/1080x360" />
+  <img src="https://imgur.com/a/DhutpCq" />
 </header>
 <hr/>
 
