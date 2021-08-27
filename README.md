@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi, I'm Anish <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 <header>
   <img src="https://i.imgur.com/kL9GfKA.png" />
