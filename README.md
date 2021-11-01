@@ -21,7 +21,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 <div align="center">
 
-## About me! 👦
+## Know more about me! 👦
   
 </div>
   
