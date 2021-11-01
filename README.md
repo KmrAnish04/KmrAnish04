@@ -55,7 +55,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 <br>
 
-<img src="images/icons/icons8-django4.svg" height="60" width="60">
+<img src="images/icons/icons8-django5.svg" height="60" width="60">
 <img src="images/icons/react-animation-transparent.gif" height="60" width="60">
 <img src="images/icons/icons8-material-ui.svg" height="60" width="60">
 <img src="images/icons/icons8-bootstrap.svg" height="60" width="60">
