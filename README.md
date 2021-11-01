@@ -12,6 +12,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 <hr>
 
+<div>
 <div align="center">
 
 ## About me! 👦
@@ -32,9 +33,8 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 - ⚡ Fun fact: **I love infinite loops**
 
 
-
+</div>
 <hr>
-
 
 <div align="center">
 
