@@ -38,6 +38,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 
 </div>
+
 <hr>
 
 <div align="center">
