@@ -2,9 +2,6 @@
 
 <img src="images/header.png" width="500px" height="300px" alt="header-img" />
 
-
-<!-- ![](images/header.png) -->
-
 </div>
 
 <h1 align="center">Hi, I'm Anish! <img alt="👋" src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
