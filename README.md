@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="images/header.png" width="500px" height="300px" alt="header-img" />
@@ -17,16 +18,18 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <hr>
 
 <div>
+
 <div align="center">
 
 ## About me! 👦
+  
 </div>
-<!-- <h3 align="center">About me! 👦</h3> -->
+  
 <br>
-
+  
 <img width="50%" align="right" alt="Github Image" src="images/Web%20Dev%20Colour/Web%20Dev%20Colour/web%20development.svg" />
 
-
+  
 - 🔭 I’m currently learning **Web Development, Data Structures and Algorithms**
 - 🌱 I’m currently working on **Web Development**
 - 👯 I’m looking to collaborate on **Full Stack Web projects**
@@ -34,22 +37,32 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 - 💬 Ask me about **Data Structures, Algorithms and Web Dev stuff**
 - 📫 How to reach me: **anish.1903.kmr@gmail.com**
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: **I love infinite loops**
+- ⚡ Fun fact: **I love infinite loops**	
 
 
-</div>
 
-<hr>
 
-<div align="center">
 
-## 👨‍💻 Tech Stack!
+
 
 </div>
-<!-- <h3 align="center">Tech Stack! 🧱🛠</h3> -->
+
 <br>
 
+
 <div align="center">
+
+<hr>
+  
+<div align="center">
+
+## Tech Stack! 👨‍💻
+
+</div>
+
+<!-- <h3 align="center">Tech Stack! 🧱🛠</h3> -->
+
+<br>
   
 <img src="images/icons/icons8-c-programming-96.png" height="60" width="60">
 <img src="images/icons/icons8-c++-96.png" height="60" width="60">
@@ -57,20 +70,21 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <img src="images/icons/icons8-html-5-96.png" height="60" width="60">
 <img src="images/icons/icons8-css3-96.png" height="60" width="60">
 <img src="images/icons/javascript-animation.gif" height="60" width="60">
+<img src="images/icons/icons8-django5.svg" height="60" width="60">
 
 <br>
 
-<img src="images/icons/icons8-django5.svg" height="60" width="60">
 <img src="images/icons/react-animation-transparent.gif" height="60" width="60">
 <img src="images/icons/icons8-material-ui.svg" height="60" width="60">
 <img src="images/icons/icons8-bootstrap.svg" height="60" width="60">
 <img src="images/icons/materializeCss-big2.svg" height="60" width="60">
 <img src="images/icons/icons8-git.svg" height="60" width="60">
-
-<br>
-
 <img src="images/icons/icons8-github.svg" height="60" width="60">
 <img src="images/icons/icons8-bash.svg" height="60" width="60">
+
+  
+<br>
+
 <img src="images/icons/icons8-command-line-96.png" height="60" width="60">
 
 </div>
@@ -92,7 +106,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&show_icons=true&hide_border=true&theme=dark" width="37%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmrAnish04&show_icons=true&hide_border=true&theme=dark" width="30%" />
 <div>
 
 <br>
