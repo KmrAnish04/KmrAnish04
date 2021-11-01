@@ -30,14 +30,14 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <img width="50%" align="right" alt="Github Image" src="images/Web%20Dev%20Colour/Web%20Dev%20Colour/web%20development.svg" />
 
   
-- 🔭 I’m currently learning **Web Development, Data Structures and Algorithms**
-- 🌱 I’m currently working on **Web Development**
-- 👯 I’m looking to collaborate on **Full Stack Web projects**
-- 🤔 I’m looking for help with **Application and web development**
-- 💬 Ask me about **Data Structures, Algorithms and Web Dev stuff**
-- 📫 How to reach me: **anish.1903.kmr@gmail.com**
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: **I love infinite loops**	
+- 🔭 I’m currently learning <code>Data Structures</code>,<code>Algorithms</code>, <code>Web Devlopment</code>
+- 🌱 I’m currently working on <code>Web Dev Projects</code>
+- 👯 I’m looking to collaborate on <code> Full-Stack web projects </code>, <code> Community encouragement progrmas </code>
+- 🤔 I’m looking for help with <code>Data Structures</code>, <code>Algorithms</code> and <code>Web Dev stuff</code>
+- 💬 Ask me about <code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>DSA</code> and <code>Myself</code>
+- 📫 How to reach me: <code><a href="https://www.linkedin.com/in/kmranish04/">LinkedIn</a></code>
+- 😄 Pronouns: <code>He/His/Him</code>
+- ⚡ Fun fact: <code>I love infinite loops ♻</code>	
 
 
 
