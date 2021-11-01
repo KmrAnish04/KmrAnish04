@@ -1,4 +1,4 @@
-![](images/header2-removebg.png)
+![](images/header.png)
 
 <h1 align="center">Hi, I'm Anish! <img alt="👋" src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
