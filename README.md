@@ -95,7 +95,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 <div align="center">
 
-## 🏆 Github Status
+## Github Status 🏆
 <!-- <h3 align="left">Statistics! 📊</h3> -->
 <br>
 
