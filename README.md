@@ -16,6 +16,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <!-- ![](https://api.github.com/users/KmrAnish04/followers/)  not workng yet -->
 
 <hr>
+<br>
 
 <div>
 
@@ -46,6 +47,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
   </div>
   <hr>
+  <br>
 
 </div>
 
@@ -94,6 +96,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 <br >
 
 <hr>
+<br>
 
 <div align="center">
 
@@ -113,7 +116,7 @@ I am Anish, a Junior Developer, currently learning web development and trying to
 
 <br>
 <hr>
-
+<br>
 
 <div align="center">
 
