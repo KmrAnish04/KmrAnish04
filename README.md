@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Hi, I'm Anish! <img alt="👋" src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi, I'm Anish! <img alt="👋" src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gifj" width="29px"></h1>
 
 <h3 align="center">I'm a Software Engineer aspirant and Web Developer from India ♥</h3>
 
